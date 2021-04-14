@@ -1,5 +1,6 @@
 # FoodyCookBook
 
+Food Recipe Applications
 
 # Screenshots
 
@@ -12,9 +13,14 @@
 
 # Getting Started
 
-Implemented in MVC Design Pattern
-Used JSONDecoder
-Used HttpUtility
+Implemented in MVC Design Pattern.
+
+Used JSONDecoder.
+
+Used HttpUtility.
+
 API From https://www.themealdb.com/
 
+# Author
 
+Srikanth Palle
